@@ -1,0 +1,31 @@
+{
+  "level1": [
+    {
+      "question": "Who holds the record for most title defenses in UFC history?",
+      "options": ["Anderson Silva", "Georges St-Pierre", "Jon Jones", "Demetrious Johnson"],
+      "answer": "Demetrious Johnson"
+    },
+    {
+      "question": "Which fighter is known as 'The Notorious'?",
+      "options": ["Nate Diaz", "Khabib Nurmagomedov", "Conor McGregor", "Tony Ferguson"],
+      "answer": "Conor McGregor"
+    }
+  ],
+  "level2": [
+    {
+      "question": "The UFC was founded in 1993.",
+      "answer": true
+    },
+    {
+      "question": "Anderson Silva is a heavyweight fighter.",
+      "answer": false
+    }
+  ],
+  "level3": [
+    {
+      "question": "UFC fighter with nickname 'Bones'",
+      "answer": "JONJONES",
+      "letters": "JONSEBOXN"
+    }
+  ]
+}
